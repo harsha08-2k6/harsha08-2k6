@@ -2,7 +2,7 @@
 
 # Siva Harsha Vardhan Reddy
 
-### Cybersecurity Enthusiast | Cloud Security Learner
+## Cybersecurity Enthusiast | Cloud Security Learner
 
 </div>
 
