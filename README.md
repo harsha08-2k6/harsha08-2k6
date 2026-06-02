@@ -1,54 +1,72 @@
-````md
-# root@harsha:~#
+<div align="center">
 
-```console
-root@harsha:~# systeminfo
+# ⚡ CYBER TERMINAL v1.0
 
-Name        : Siva Harsha Vardhan Reddy
+</div>
+
+```powershell
+PS C:\Users\Harsha> whoami
+
+Siva Harsha Vardhan Reddy
+
+PS C:\Users\Harsha> Get-Profile
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Role        : Cybersecurity Enthusiast
 University  : KL University
+Focus       : Cloud Security
 Location    : India
 
-root@harsha:~# skills --list
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[+] Python
-[+] Java
-[+] JavaScript
-[+] C
-[+] HTML
-[+] CSS
-[+] AWS Cloud
-[+] Linux
-[+] Git & GitHub
-[+] Cybersecurity
+PS C:\Users\Harsha> Get-Skills
 
-root@harsha:~# certifications
+[■] Python
+[■] Java
+[■] JavaScript
+[■] C
+[■] HTML
+[■] CSS
+[■] Linux
+[■] Git
+[■] GitHub
+[■] AWS Cloud
+[■] Cybersecurity
+
+PS C:\Users\Harsha> Get-Certifications
 
 [✓] Google Cybersecurity Professional Certificate
 [✓] AWS Certified Cloud Practitioner
 
-root@harsha:~# status
+PS C:\Users\Harsha> Get-LearningPath
 
-Currently Learning:
-→ Cloud Security
-→ CompTIA Security+
-→ CompTIA Network+
+>> Cloud Security
+>> CompTIA Security+
+>> CompTIA Network+
 
-root@harsha:~# contact
-
-Email    : tsivaharshavardhanreddy08@gmail.com
-GitHub   : https://github.com/harsha08-2k6
-LinkedIn : https://www.linkedin.com/in/siva-harsha-vardhan-reddy/
-
-root@harsha:~# echo $GOAL
+PS C:\Users\Harsha> Get-Goal
 
 Become a Cloud Security Engineer
 
-root@harsha:~# logout
-Connection closed.
+PS C:\Users\Harsha> Get-Contact
 
-Thank you for visiting my GitHub profile.
+Email    : tsivaharshavardhanreddy08@gmail.com
+LinkedIn : linkedin.com/in/siva-harsha-vardhan-reddy
+GitHub   : github.com/harsha08-2k6
+
+PS C:\Users\Harsha> system-status
+
+STATUS : ONLINE
+MODE   : LEARNING • BUILDING • SECURING
+
+PS C:\Users\Harsha> exit
+
+Session terminated successfully.
 ```
-````
 
-Paste this directly into your `README.md` in the repository named `harsha08-2k6`.
+<div align="center">
+
+### "Security is a journey, not a destination."
+
+</div>
