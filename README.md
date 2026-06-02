@@ -1,72 +1,74 @@
 <div align="center">
 
-# ⚡ CYBER TERMINAL v1.0
+# Siva Harsha Vardhan Reddy
+
+### Cybersecurity Enthusiast | Cloud Security Learner | AWS Certified Cloud Practitioner
 
 </div>
 
-```powershell
-PS C:\Users\Harsha> whoami
+```console
+harsha@security:~$ profile
 
-Siva Harsha Vardhan Reddy
-
-PS C:\Users\Harsha> Get-Profile
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Role        : Cybersecurity Enthusiast
+Name        : Siva Harsha Vardhan Reddy
 University  : KL University
-Focus       : Cloud Security
 Location    : India
+Focus Area  : Cybersecurity & Cloud Security
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+harsha@security:~$ skills
 
-PS C:\Users\Harsha> Get-Skills
+Programming :
+  • Python
+  • Java
+  • JavaScript
+  • C
 
-[■] Python
-[■] Java
-[■] JavaScript
-[■] C
-[■] HTML
-[■] CSS
-[■] Linux
-[■] Git
-[■] GitHub
-[■] AWS Cloud
-[■] Cybersecurity
+Technologies :
+  • AWS Cloud
+  • Linux
+  • Git & GitHub
+  • HTML & CSS
 
-PS C:\Users\Harsha> Get-Certifications
+Security :
+  • Network Security
+  • Cloud Security
+  • Security Fundamentals
 
-[✓] Google Cybersecurity Professional Certificate
+harsha@security:~$ certifications
+
 [✓] AWS Certified Cloud Practitioner
+[✓] Google Cybersecurity Professional Certificate
 
-PS C:\Users\Harsha> Get-LearningPath
+harsha@security:~$ learning_path
 
->> Cloud Security
->> CompTIA Security+
->> CompTIA Network+
+→ Cloud Security
+→ CompTIA Security+
+→ CompTIA Network+
 
-PS C:\Users\Harsha> Get-Goal
+harsha@security:~$ objective
 
-Become a Cloud Security Engineer
+Building a strong foundation in cybersecurity,
+cloud technologies, and security operations
+to pursue a career as a Cloud Security Engineer.
 
-PS C:\Users\Harsha> Get-Contact
+harsha@security:~$ contact
 
 Email    : tsivaharshavardhanreddy08@gmail.com
 LinkedIn : linkedin.com/in/siva-harsha-vardhan-reddy
 GitHub   : github.com/harsha08-2k6
 
-PS C:\Users\Harsha> system-status
+harsha@security:~$ status
 
-STATUS : ONLINE
-MODE   : LEARNING • BUILDING • SECURING
+Learning. Building. Improving.
 
-PS C:\Users\Harsha> exit
-
-Session terminated successfully.
+harsha@security:~$ _
 ```
 
 <div align="center">
 
-### "Security is a journey, not a destination."
+### Connect with Me
+
+<a href="mailto:tsivaharshavardhanreddy08@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/siva-harsha-vardhan-reddy/">LinkedIn</a> •
+<a href="https://github.com/harsha08-2k6">GitHub</a>
 
 </div>
