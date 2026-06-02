@@ -1,13 +1,19 @@
 <div align="center">
 
-# Siva Harsha Vardhan Reddy
+# 🟦 Siva Harsha Vardhan Reddy
 
-## Cybersecurity Enthusiast | Cloud Security Learner
+### 🔐 Cybersecurity Enthusiast | ☁️ Cloud Security Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Cloud+Security+Learner;AWS+Certified+Cloud+Practitioner;Google+Cybersecurity+Professional;Future+Cloud+Security+Engineer" />
 
 </div>
 
+---
+
+## 💻 Terminal
+
 ```console
-harsha@security:~$ profile
+harsha@security:~$ whoami
 
 Name        : Siva Harsha Vardhan Reddy
 University  : KL University
@@ -38,23 +44,11 @@ harsha@security:~$ certifications
 [✓] AWS Certified Cloud Practitioner
 [✓] Google Cybersecurity Professional Certificate
 
-harsha@security:~$ learning_path
+harsha@security:~$ learning
 
 → Cloud Security
 → CompTIA Security+
 → CompTIA Network+
-
-harsha@security:~$ objective
-
-Building a strong foundation in cybersecurity,
-cloud technologies, and security operations
-to pursue a career as a Cloud Security Engineer.
-
-harsha@security:~$ contact
-
-Email    : tsivaharshavardhanreddy08@gmail.com
-LinkedIn : linkedin.com/in/siva-harsha-vardhan-reddy
-GitHub   : github.com/harsha08-2k6
 
 harsha@security:~$ status
 
@@ -63,12 +57,30 @@ Learning. Building. Improving.
 harsha@security:~$ _
 ```
 
-<div align="center">
+---
 
-### Connect with Me
+## 🏆 Certifications
 
-<a href="mailto:tsivaharshavardhanreddy08@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/siva-harsha-vardhan-reddy/">LinkedIn</a> •
-<a href="https://github.com/harsha08-2k6">GitHub</a>
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-</div>
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:tsivaharshavardhanreddy08@gmail.com">
+<img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black">
+</a>
+
+<a href="https://www.linkedin.com/in/siva-harsha-vardhan-reddy/">
+<img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black">
+</a>
+
+<a href="https://github.com/harsha08-2k6">
+<img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</p>
