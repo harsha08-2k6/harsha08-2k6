@@ -4,7 +4,7 @@
 
 ### 🔐 Cybersecurity Enthusiast | ☁️ Cloud Security Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Cloud+Security+Learner;AWS+Certified+Cloud+Practitioner;Google+Cybersecurity+Professional;Future+Cloud+Security+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Cloud+Security+Learner;Google+Cybersecurity+Professional;Future+Cloud+Security+Engineer" />
 
 </div>
 
@@ -56,14 +56,6 @@ Learning. Building. Improving.
 
 harsha@security:~$ _
 ```
-
----
-
-## 🏆 Certifications
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
