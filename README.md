@@ -2,7 +2,7 @@
 
 # Siva Harsha Vardhan Reddy
 
-### Cybersecurity Enthusiast | Cloud Security Learner | AWS Certified Cloud Practitioner
+### Cybersecurity Enthusiast | Cloud Security Learner
 
 </div>
 
