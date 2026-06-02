@@ -39,10 +39,6 @@ Security :
   • Cloud Security
   • Security Fundamentals
 
-harsha@security:~$ certifications
-
-[✓] AWS Certified Cloud Practitioner
-[✓] Google Cybersecurity Professional Certificate
 
 harsha@security:~$ learning
 
