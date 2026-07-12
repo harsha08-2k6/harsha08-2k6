@@ -4,7 +4,7 @@
 
 ### 🔐 Cybersecurity Enthusiast | ☁️ Cloud Security Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Cloud+Security+Learner;Google+Cybersecurity+Professional;Future+Cloud+Security+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Aspiring+SOC+Analyst+and+Penetration+Tester;Cloud+Security+Learner;Google+Cloud+Cybersecurity+Professional" />
 
 </div>
 
