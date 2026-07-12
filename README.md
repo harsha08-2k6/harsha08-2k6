@@ -44,7 +44,7 @@ harsha@security:~$ learning
 
 → Cloud Security
 → CompTIA Security+
-→ CompTIA Network+
+→ Aspiring SOC Analyst and Penetration Tester
 
 harsha@security:~$ status
 
