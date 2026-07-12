@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟦 Siva Harsha Vardhan Reddy
+# SHVR - Siva Harsha Vardhan Reddy
 
 ### 🔐 Cybersecurity Enthusiast | ☁️ Cloud Security Learner
 
